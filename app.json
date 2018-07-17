@@ -1,0 +1,8 @@
+{
+  "expo": {
+		"name": "Onda Dura Dev",
+		"slug": "onda-dura-dev",
+    "sdkVersion": "27.0.0",
+		"privacy": "unlisted"
+  }
+}
